@@ -125,7 +125,7 @@ Me chamo Joao Pedro Aguiar, tenho 26 anos e sou natural de Brasilia DF. Concluí
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Joaopedromartins21&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="" 
   />
 
 <img 
